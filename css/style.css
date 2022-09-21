@@ -1,0 +1,158 @@
+.contactboton{
+    background: #FFB533;
+    border-radius: 10px;
+    
+}
+
+.bg-portafolio{
+    background: #0F0F2D;
+    padding: 30px 0;
+}
+
+.lsobre{
+    color: #ffffff;
+}
+
+.lserv{
+    color: #ffffff;
+}
+
+.lporta{
+    color: #ffffff;
+}
+
+.lcontac{
+    color: #0F0F2D;
+}
+
+.leinicio{
+    color: #FFB533;
+}
+
+.botonrespon{
+    background: #FFB533;
+}
+
+.imgpor img{
+    width: 65px;
+}
+
+.navbar-collapse ul li a:hover{
+    color: #FFB533;
+
+}
+
+.colorcontenedorsaludo{
+    background: #0A0919;
+    padding: 100%;
+
+}
+
+.hero{
+    background: #0A0919;
+}
+
+.saludocolor{
+    color: #FFB533;
+}
+
+.saludocolor h2{
+    color: #ffffff;
+}
+
+.saludocolor p{
+    color: #ffffff;
+}
+
+
+.botoncontactarme{
+    background: #FFB533;
+    border-radius: 10px;
+    color: #0F0F2D;
+   
+}
+
+.hero .imghero{
+    padding-top: 50px;
+}
+
+.section{
+    background: #100F2E;
+}
+
+.section .textacercademi h2{
+    color: #ffffff;
+    text-align: center;
+}
+
+
+
+.section .textacercademi2{
+    color: #ffffff;
+}
+
+.section .botondescarcv{
+    background: #751919;
+    border-radius: 10px;
+}
+
+.section .botonvistatrabajos{
+    border-radius: 10px;
+}
+
+.section2 .filaservtex h2{
+    color: #FFB533;
+    text-align: center;
+}
+
+.section2 .filaservtex p{
+    color: #ffffff;
+    
+}
+.section2{
+    background: #131433;
+}
+
+#section3{
+    background: #0A0919;
+}
+
+#section4{
+    background: #0F0F2D;
+}
+
+#section5{
+    background: #0A0919;
+}
+
+#section5 .botonenviarcontacto{
+    background: #FFB533;
+    border-radius: 10px;
+    color: #0F0F2D;
+
+}
+
+#section6{
+    background: #0A0919;
+}
+
+#section .imglogoa2{
+    position: absolute;
+    left: 0;
+    right: 0;
+    
+    margin: 0 auto;
+    top: 37px;
+}
+
+#section6 p{
+    color: #ffffff;
+}
+
+#whatsapp{
+    position: fixed;
+    right: 10px;
+    bottom: 20px;
+    z-index: 999999;
+    
+}
